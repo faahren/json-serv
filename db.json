@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "image": "https://i5.walmartimages.com/asr/b6e86731-82c2-4d58-b4d3-0d65810ea757_1.4a476da80af11f6898d48c868bce5e17.jpeg",
+      "eans": [
+        "5021991939600",
+        "5900649070240",
+        "8711000534373"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "image": "https://www.minutemaid.com/content/dam/minutemaid/hero/PureSqueezedNoPulp_52ozBottle_Hero.png",
+      "eans": [
+        "5021991939600"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "image": "https://i5.walmartimages.ca/images/Large/262/850/1262850.jpg?odnBound=460",
+      "eans": [
+        "5900649070240"
+      ]
+    }
+  ],
+  "me": {
+    "name": "johnny"
+  },
+  "eans": [
+    "23456",
+    "23457",
+    "234304",
+    "65849",
+    "860303",
+    "37444"
+  ]
+}
